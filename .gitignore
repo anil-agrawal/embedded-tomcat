@@ -1,0 +1,12 @@
+# Target Files
+/target
+
+# logs
+/logs
+
+# Eclipse related files
+/.classpath
+/.project
+/.settings
+
+# web application files or other files
